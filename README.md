@@ -19,14 +19,18 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/></a>&nbsp 
 </p>
 
-## &#x1f4c8; GitHub Stats
+<h3 align="center"> &#x1f4c8; GitHub Stats</h3>
+<p align="center">
 <a href="https://github.com/je1113/je1113">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=je1113&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/je1113/je1113">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=je1113&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="je1113's GitHub Stats" />
 </a>
+ </p>
 
-## 🤝🏻 Connect with Me
-- [Blog](https://velog.io/@jji3205)
-- [Notion](https://www.notion.so/happy-day-dc05ece0e3e2403d93563decf36fc1fc)
+<h3 align="center">💌 Contact Me 💌</h3>
+<p align="center">
+[Blog](https://velog.io/@jji3205)
+[Notion](https://www.notion.so/happy-day-dc05ece0e3e2403d93563decf36fc1fc)
+</p>
