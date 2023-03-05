@@ -1,5 +1,5 @@
 
-<h2 align="center">I'm Jooeun, a backend developer from Korea! 🙋‍♀️</h2> 
+<h2 align="center">Happy day🌈 I'm Jooeun</h2> 
 
 <h3 align="center">👩‍💻 Tech Stack 👩‍💻</h3>
 <p align="center">
