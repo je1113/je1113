@@ -34,5 +34,4 @@
  <a href="jje320594@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
   <a href="https://velog.io/@jji3205" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=greensock&logoColor=white"/></a>&nbsp
   
-[Notion](https://www.notion.so/happy-day-dc05ece0e3e2403d93563decf36fc1fc)
 </p>
